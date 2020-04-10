@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "ts_flappyBird",
+  "uuid": "d14d385b-bcb2-47c3-8447-844be3ce4b4b",
+  "version": "2.3.2",
+  "id": "32a6a0d9-8b13-4493-83c3-e165c1612540"
+}
